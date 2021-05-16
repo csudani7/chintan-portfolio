@@ -1,8 +1,8 @@
 Hi, I'm Chintan Sudani! 👋
 
-🔥 A Software Developer grinding hard to make something cool
+🔥 A Full-stack Software Developer grinding hard to make something cool
 
-✨ Favorite Tech: JavaScript, React, Typescript...
+✨ Favorite Tech: JavaScript, React, Typescript, Angular, Nodejs...
 
 ✉️ csudani7@gmail.com
 
