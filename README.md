@@ -10,3 +10,5 @@ Hi, I'm Chintan Sudani! 👋
 
 💼 LinkedIn: https://www.linkedin.com/in/chintan-sudani/
 
+🔥 Twitter: https://twitter.com/sarcasticsudani
+
